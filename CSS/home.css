@@ -1,0 +1,60 @@
+.header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    padding: 0.5rem;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 2rem;
+    background-color: #4e89ae;
+    color:white;
+}
+
+a {
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    
+}
+
+li {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    border-radius: 2rem;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 5rem;
+    height: 3rem;
+    color: black;
+    background-color: #43658b;
+}
+
+.button1:hover {
+    position: relative;
+    transform: scale(1.05);
+    
+}
+
+.button2:hover {
+    position: relative;
+    transform: scale(1.05);
+    
+}
+
+.button3:hover {
+    position: relative;
+    transform: scale(1.05);
+    
+}
+
+.button1 {
+    margin-top: 15rem;
+}
+
+a {
+    text-decoration: none;
+}
+
