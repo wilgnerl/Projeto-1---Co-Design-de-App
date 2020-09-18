@@ -28,7 +28,7 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    
 }
 
 ul {
@@ -36,10 +36,21 @@ ul {
 }
 
 a {
-    padding: 1rem;
-    color: #4e89ae;
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    margin: 1rem 5rem;
+    height: 3rem;
+    background-color: #43658b;
 }
 
 li {
     padding: 1rem;
+    font-family: 'Arial';
 }
