@@ -24,6 +24,6 @@ main {
     align-items: center;
 }
 
-ul {
-    align-self: start;
+li {
+    padding: 0.5rem;
 }
