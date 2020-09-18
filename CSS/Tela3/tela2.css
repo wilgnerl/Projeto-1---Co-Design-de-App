@@ -13,6 +13,11 @@ header {
 
 }
 
+main {
+    justify-content: center;
+
+}
+
 p {
     margin: 1rem;
     font-family: 'Arial';
@@ -23,5 +28,14 @@ button {
     position: relative;
     font-family: 'Arial';
     transform: scale(1.05);
+    margin: 1rem;
+    color: #4e89ae;
+
+}
+
+a {
+    margin: 1rem;
+    font-family: 'Arial';
+    color: #4e89ae;
 
 }
