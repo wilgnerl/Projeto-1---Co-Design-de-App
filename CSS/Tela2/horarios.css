@@ -14,6 +14,12 @@ header {
     justify-content: center;
     align-items: center;
     height: 3rem;
+    padding: 0.5rem;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 2rem;
+    background-color: #4e89ae;
+    color:white;
 }
 
 main {
@@ -26,4 +32,11 @@ main {
 
 ul {
     align-self: start;
+    font-family: 'Arial';
+    color: black;
+}
+
+li {
+    padding: 1rem;
+
 }
