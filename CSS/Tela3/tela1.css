@@ -14,9 +14,18 @@ header {
 }
 
 a {
+    color: white;
     font-family: 'Arial';
-    color: #4e89ae;
-    margin: 0 5rem;
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+    display: flex;
+    border-radius: 2rem;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 5rem;
+    height: 3rem;
+    background-color: #43658b;
 }
 
 form {
