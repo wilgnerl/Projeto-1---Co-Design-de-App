@@ -42,8 +42,7 @@ p {
 
 button {
     font-family: 'Arial';
-    transform: scale(1.05);
-    margin: 1rem;
+    margin: 1.5rem;
     color: #4e89ae;
 
 }
