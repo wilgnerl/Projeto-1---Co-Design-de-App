@@ -16,6 +16,7 @@ a {
     color: white;
     font-family: 'Arial';
     font-weight: bold;
+    text-decoration: none;
     
 }
 
@@ -54,7 +55,5 @@ li {
     margin-top: 15rem;
 }
 
-a {
-    text-decoration: none;
-}
+
 
