@@ -28,11 +28,24 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+<<<<<<< Updated upstream
 }
 
 input {
     display: flex;
     margin: 1rem 5rem;
+=======
+    
+}
+
+input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0.2rem 3rem;
+>>>>>>> Stashed changes
 }
 
 a {
@@ -42,9 +55,15 @@ a {
     text-decoration: none;
     position: relative;
     display: flex;
+<<<<<<< Updated upstream
     justify-content: center;
     align-items: center;
     border-radius: 2rem;
+=======
+    border-radius: 2rem;
+    justify-content: center;
+    align-items: center;
+>>>>>>> Stashed changes
     margin: 1rem 5rem;
     height: 3rem;
     background-color: #43658b;
