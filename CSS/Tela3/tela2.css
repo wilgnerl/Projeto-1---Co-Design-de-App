@@ -1,3 +1,14 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
 header {
     position: relative;
     display: flex;
@@ -14,7 +25,12 @@ header {
 }
 
 main {
-    justify-content: center;
+    flex-grow: 1; 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5rem;  
+    font-family: 'Arial';
 
 }
 
@@ -25,7 +41,6 @@ p {
 }
 
 button {
-    position: relative;
     font-family: 'Arial';
     transform: scale(1.05);
     margin: 1rem;
