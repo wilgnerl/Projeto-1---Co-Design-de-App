@@ -53,7 +53,6 @@ a{
     font-family: 'Arial';
     font-weight: bold;
     text-decoration: none;
-    position: relative;
     display: flex;
     border-radius: 2rem;
     justify-content: center;
