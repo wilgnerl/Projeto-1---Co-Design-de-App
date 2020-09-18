@@ -1,0 +1,48 @@
+header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    padding: 0.5rem;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 2rem;
+    background-color: #4e89ae;
+    color:white;
+
+}
+
+a {
+    font-family: 'Arial';
+    color: #4e89ae;
+    margin: 0 5rem;
+}
+
+form {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Arial';
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    margin: 3rem 5rem;
+}
+
+span {
+
+}
+
+input[type="password"] {
+    margin: 0 5rem;
+}
+
+input[type="submit"] {
+    margin: 0 5rem;
+}
+
+
