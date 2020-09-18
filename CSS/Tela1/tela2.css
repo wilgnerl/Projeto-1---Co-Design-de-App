@@ -30,21 +30,27 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    margin-left: 0.5rem;
+    margin-left: 1rem;
+    
     
     
 }
 
 label{
-    display: inline-flex;
+    
     flex-direction: row;
     font-family: 'Arial';
     font-weight: bold;
     padding: 0.5rem;
+    
+}
+input[type="checkbox"]{
+    margin-bottom: 1.5rem;
 }
 
 input[type="text"]{
-    
+    margin-top: 1.15rem;
+    margin-left: 0.5rem;
     padding: 0.25rem;
     width: 50%;
     
