@@ -14,6 +14,12 @@ header {
     justify-content: center;
     align-items: center;
     height: 3rem;
+    padding: 0.5rem;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 1rem;
+    background-color: #4e89ae;
+    color:white;
 }
 
 
@@ -30,5 +36,10 @@ ul {
 }
 
 a {
+    padding: 1rem;
+    color: #4e89ae;
+}
+
+li {
     padding: 1rem;
 }
