@@ -17,7 +17,7 @@ header {
     align-items: center;
     height: 3rem;
     padding: 0.5rem;
-    font-family: 'Arial';
+    font-family: 'Roboto', sans-serif; 
     font-weight: bold;
     font-size: 2rem;
     background-color: #4e89ae;
@@ -32,13 +32,13 @@ main {
     display: flex;
     flex-direction: column;
     margin-left: 0.5rem;  
-    font-family: 'Arial';
+    font-family: 'Roboto', sans-serif; 
 
 }
 
 a {
     color: white;
-    font-family: 'Arial';
+    font-family: 'Roboto', sans-serif; 
     font-weight: bold;
     text-decoration: none;
     display: flex;
@@ -55,7 +55,7 @@ form {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    font-family: 'Arial';
+    font-family: 'Roboto', sans-serif; 
 }
 
 label {
