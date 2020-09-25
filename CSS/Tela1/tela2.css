@@ -16,7 +16,7 @@ header {
     align-items: center;
     height: 3rem;
     padding: 0.5rem;
-    font-family: 'Arial';
+    font-family: 'Roboto', sans-serif; 
     font-weight: bold;
     font-size: 2rem;
     background-color: #4e89ae;
@@ -39,7 +39,7 @@ main {
 label{
     
     flex-direction: row;
-    font-family: 'Arial';
+    font-family: 'Roboto', sans-serif; 
     font-weight: bold;
     padding: 0.5rem;
     
@@ -58,7 +58,7 @@ input[type="text"]{
 
 a{  
     color: white;
-    font-family: 'Arial';
+    font-family: 'Roboto', sans-serif; 
     font-weight: bold;
     text-decoration: none;
     display: flex;

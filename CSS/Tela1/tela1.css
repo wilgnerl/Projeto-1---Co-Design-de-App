@@ -25,11 +25,12 @@ header {
     align-items: center;
     height: 3rem;
     padding: 0.5rem;
-    font-family: 'Arial';
     font-weight: bold;
     font-size: 2rem;
     background-color: #4e89ae;
     color:white;
+    font-family: 'Roboto', sans-serif; 
+    
 
 }
 
@@ -37,14 +38,13 @@ header {
 label{
     display: inline-flex;
     flex-direction: row;
-    font-family: 'Arial';
+    font-family: 'Roboto', sans-serif; 
     font-weight: bold;
     padding: 0.5rem;
 }
 
 a{  
     color: white;
-    font-family: 'Arial';
     font-weight: bold;
     text-decoration: none;
     display: flex;
@@ -54,5 +54,7 @@ a{
     margin: 1rem 5rem;
     height: 3rem;
     background-color: #43658b;
+    font-family: 'Roboto', sans-serif; 
+    
 }
 
